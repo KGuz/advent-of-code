@@ -1,9 +1,12 @@
 [submodule "2021"]
 	path = 2021
 	url = https://github.com/KGuz/advent-of-code-2021
+	branch = main
 [submodule "2022"]
 	path = 2022
 	url = https://github.com/KGuz/advent-of-code-2022
+	branch = main
 [submodule "2023"]
 	path = 2023
 	url = https://github.com/KGuz/advent-of-code-2023
+	branch = main
