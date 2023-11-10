@@ -1,0 +1,1 @@
+A collection of repositories containing solutions to revisions of advent of code
