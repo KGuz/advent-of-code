@@ -29,6 +29,7 @@ part_two="${result%%"</article>"*}"
 
 desc=$part_one$eol$part_two
 desc=${desc//<p>/$eol}
+desc=${desc//<li>/'- '}
 
-# remove html tags
-echo -n "$desc" | sed -e 's/<[^>]*>//g'
+# remove html tags and format output
+echo -n "$desc" | sed -e 's/<[^>]*>//g' | fold -s -w76 | paste -sd'\n' | sed -e 's/\s*$//'
