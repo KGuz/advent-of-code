@@ -3,22 +3,15 @@
 
 This repository contains my solutions to the Advent of Code challenges from 2021 onwards. Each year's solutions are organized into submodules for clarity and ease of navigation. What makes it even more exciting is that every year is tackled using a different programming language!
 
-## Getting started
-#### Cloning the repository
+## Repositories
 
-To clone this repository along with all submodules, use the following command:
-```sh
-git clone --recursive https://github.com/KGuz/advent-of-code.git
-```
-
-If you have already cloned the repository without the submodules, you can fetch them using:
-```sh
-git submodule update --init --recursive
-```
+* [2021](https://github.com/KGuz/advent-of-code-2021)
+* [2022](https://github.com/KGuz/advent-of-code-2022)
+* [2023](https://github.com/KGuz/advent-of-code-2023)
 
 ## Usage
 
-Navigate to the specific year's submodule to access the solutions for that year. Each submodule is self-contained and contains the solutions organized by day.
+Navigate to the specific year's repository to access the solutions for that year. Each repository is self-contained and contains the solutions organized by day.
 
 Feel free to explore the code, and use it as a reference or starting point for your own solutions.
 
