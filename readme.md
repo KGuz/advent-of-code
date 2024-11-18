@@ -8,6 +8,7 @@ This repository contains my solutions to the Advent of Code challenges from 2021
 * [2021](https://github.com/KGuz/advent-of-code-2021)
 * [2022](https://github.com/KGuz/advent-of-code-2022)
 * [2023](https://github.com/KGuz/advent-of-code-2023)
+* [2024](https://github.com/KGuz/advent-of-code-2024)
 
 ## Usage
 
